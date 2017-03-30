@@ -1,5 +1,4 @@
-# Fusebox and preact
-
+# fusebox-preact-example
 
 ```
 npm install
