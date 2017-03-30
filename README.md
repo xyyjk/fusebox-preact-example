@@ -1,4 +1,4 @@
-# Fusebox and react
+# Fusebox and preact
 
 
 ```
